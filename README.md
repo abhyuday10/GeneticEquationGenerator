@@ -1,5 +1,5 @@
 # GeneticEquationGenerator
-Generates an equation to match a value using a genetic algorithm
+Generates an equation to match a value using a genetic algorithm. Uses predefined operators and operands to generate this equation. Finds exact value only.
 
 ## Instructions
 1. Choose target value (must be within reasonable range)
